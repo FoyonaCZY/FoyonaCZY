@@ -57,7 +57,7 @@ Source repository: https://github.com/Xiaokang2022/Xiaokang2022
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/FoyonaCZY"><img src="https://img.shields.io/badge/GitHub-FoyonaCZY-blue?logo=github" /></a>
-<a href="https://space.bilibili.com/52296717"><img src="https://img.shields.io/badge/哔哩哔哩-WendyVoice-pink?logo=bilibili" /></a>
+<a href="https://space.bilibili.com/522967717"><img src="https://img.shields.io/badge/哔哩哔哩-WendyVoice-pink?logo=bilibili" /></a>
 <img src="https://img.shields.io/badge/QQ-2834364635-green?logo=tencentqq" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=FoyonaCZY&abbreviated=true&color=yellow" />

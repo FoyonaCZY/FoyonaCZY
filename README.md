@@ -51,7 +51,7 @@ Source repository: https://github.com/Xiaokang2022/Xiaokang2022
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoyonaCZY&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=go,dart,flutter,cpp,c,py&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=go,rust,dart,flutter,cpp,c,py&theme=light" />
 </p>
 
 <!-- https://github.com/badges/shields -->

@@ -1,7 +1,5 @@
 ## Hey 👋, I'm CZY!  ![Profile views counter](https://komarev.com/ghpvc/?username=FoyonaCZY&&style=flat-square)  
 
-## Rapidfire  
-
 <br/>
   
 - ***I’m currently working at WeChat in Guangzhou***
